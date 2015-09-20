@@ -1,5 +1,4 @@
-# hackathon2015info
-Meet Magento 2015 Hackathon Information
+# Meet Magento 2015 Hackathon Information
 
 # Wifi
 WW-Guest (no password needed)
